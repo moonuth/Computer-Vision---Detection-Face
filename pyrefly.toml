@@ -1,0 +1,6 @@
+[default]
+search_path = [
+    "./src",
+]
+site_package_path = "C:\\Users\\ASUS\\AppData\\Roaming\\uv\\python\\cpython-3.12-windows-x86_64-none\\Lib\\site-packages"
+python_version = "3.12"

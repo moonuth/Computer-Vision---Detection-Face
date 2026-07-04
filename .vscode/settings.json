@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "pyrefly.disableLanguageServices": true,
+    "pyrefly.enablePyrefly": false
+}
